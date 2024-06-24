@@ -1,4 +1,5 @@
 # Clean Code
+###This is what a spartan look for.....
 
 This repository holds the code examples and snapshots as well as any other resources belonging to our ["Clean Code" course](https://acad.link/clean-code).
 
